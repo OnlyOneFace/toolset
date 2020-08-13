@@ -2,7 +2,7 @@
 // Author: OnlyOneFace
 // Date: 2020/7/24
 
-package util
+package utils
 
 import (
 	"bytes"

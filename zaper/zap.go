@@ -2,7 +2,7 @@
 // Author: OnlyOneFace
 // Date: 2020/8/13
 
-package logger
+package zaper
 
 import (
 	"time"

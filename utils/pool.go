@@ -2,7 +2,7 @@
 // Author: OnlyOneFace
 // Date: 2020/6/26
 
-package util
+package utils
 
 import (
 	"runtime"

@@ -2,7 +2,7 @@
 // Author: OnlyOneFace
 // Date: 2020/6/27
 
-package util
+package utils
 
 import "strings"
 

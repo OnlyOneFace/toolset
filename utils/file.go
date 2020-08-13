@@ -2,7 +2,7 @@
 // Author: OnlyOneFace
 // Date: 2020/6/6
 
-package util
+package utils
 
 import (
 	"io"
